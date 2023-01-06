@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "superstatic . --port 3000"
+  },
+  "devDependencies": {
+    "superstatic": "^9.0.1"
+  }
+}
